@@ -1,4 +1,4 @@
-# Log Analytic Query
+# AVD Utilization Log Analytic Query
 
 // Session duration 
 // Lists users by session duration in the last 24 hours. 
