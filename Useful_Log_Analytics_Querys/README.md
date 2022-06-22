@@ -46,5 +46,17 @@ Right off the bat, the Heartbeat table provides useful information. It provides 
     | where EventID == "1074"
     | where Computer == "Computer Name"
 
+# Create or Update NetworkSecurityGroup Rule
+
+    Selected signal: Create or Update Network Security Group (Microsoft.Network/networkSecurityGroups) 
+
+# Create or Update Security Rule's Rule
+
+    Selected signal: Create or Update Security Rule (networkSecurityGroups/securityRules)
+
+
+
+
+
 
 
